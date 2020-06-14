@@ -6,11 +6,10 @@ Ultimately I would like to be able to sniff communication between 2 processes, b
 
 # Did you know?
 1. What is the request your browser send when you type any URL?
-2. 
 
 # Awesome resources that already exist
 Many kudos to these resources
-- Many man pages, like - 
+- Many man pages, like  
 --  [From linux.de](http://man.he.net/?topic=nc&section=all )
 -- [From commandlinux.com](https://www.commandlinux.com/man-page/man1/nc.1.html)
 - [Udemy's course on - Learn how to hack with NetCat](https://www.udemy.com/course/hacking-with-netcat/)
@@ -39,8 +38,6 @@ Because one for Server to know that you're done. Another for nc to know that you
 ## NetCat as a Server
 It can listen to inbound connections.
 
-#todo - add a server demo 
-#todo - add example of understanding the rqeuest sent by the browser
 
 ## NetCat doesn't really care
 If its server or client.. In some sense it acts more like a pipe.
@@ -55,7 +52,6 @@ If its server or client.. In some sense it acts more like a pipe.
 ## Using as stream generator
 
 ## Command line options
-#todo - does nc have long form command line options?
 - -C: Sending CRLF 
 
 # TODOs
