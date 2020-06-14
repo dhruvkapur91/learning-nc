@@ -10,8 +10,8 @@ Ultimately I would like to be able to sniff communication between 2 processes, b
 # Awesome resources that already exist
 Many kudos to these resources
 - Many man pages, like  
---  [From linux.de](http://man.he.net/?topic=nc&section=all )
--- [From commandlinux.com](https://www.commandlinux.com/man-page/man1/nc.1.html)
+	- [From linux.de](http://man.he.net/?topic=nc&section=all )
+	- [From commandlinux.com](https://www.commandlinux.com/man-page/man1/nc.1.html)
 - [Udemy's course on - Learn how to hack with NetCat](https://www.udemy.com/course/hacking-with-netcat/)
 - [Learning to use NetCat to its Full potential](https://www.linode.com/docs/networking/diagnostics/netcat/netcat/)
 - [NetCat examples and Cheat Sheet](https://www.varonis.com/blog/netcat-commands/)
